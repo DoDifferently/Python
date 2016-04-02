@@ -1,0 +1,9 @@
+Location:  New Delhi / Safdarjung
+Current Temperature : 39 C
+Feels Like: 38 CForecast: 27 / 40 CWind: 11 km/h  from Northwest
+Current Time:  2  2016, 15:37:57
+Latest Report:  2  2016, 14.30
+Visibility:  4 km
+Pressure:  1005 mbar
+Humidity:  22%
+Dew Point:  14 C
